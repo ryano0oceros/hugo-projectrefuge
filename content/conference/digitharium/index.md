@@ -4,8 +4,8 @@ date: 2024-04-03
 draft: false
 description: "Coding in the Clouds"
 tags: ["new", "docs"]
-series: ["Documentation"]
-series_order: 3
+series: ["Professional"]
+series_order: 1
 ---
 
 {{< lead >}}

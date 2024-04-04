@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About Me"
-  pageRef = "docs"
+  name = "Bio"
+  pageRef = "docs/resume"
   weight = 10
 
 #[[main]]
@@ -21,23 +21,23 @@
 #  weight = 15
 
 [[main]]
-  name = "Examples"
+  name = "Media"
   weight = 20
 
 [[main]]
-  name = "Samples"
-  parent = "Examples"
-  pageRef = "samples"
+  name = "Youtube"
+  parent = "Media"
+  pageRef = "video"
   weight = 16
 
 [[main]]
-  name = "Showcase"
-  parent = "Examples"
-  pageRef = "examples"
+  name = "Conferences"
+  parent = "Media"
+  pageRef = "conference"
   weight = 30
 
 [[main]]
-  name = "Recipes"
+  name = "Placeholder"
   parent = "Examples"
   pageRef = "guides"
   weight = 40
@@ -80,12 +80,12 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
 
- [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 20
+# [[footer]]
+#   name = "Authors"
+#   pageRef = "authors"
+#   weight = 20

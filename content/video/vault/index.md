@@ -3,9 +3,9 @@ title: "Vault Use Cases"
 date: 2024-04-03
 draft: false
 description: "Coding in the Clouds"
-tags: ["new", "docs"]
+tags: ["new", "video"]
 series: ["Documentation"]
-series_order: 1
+series_order: 2
 ---
 
 {{< lead >}}

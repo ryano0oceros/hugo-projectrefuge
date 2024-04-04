@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["section1", "section2"]
+mainSections = ["docs"]
 # robots = ""
 
 disableImageOptimization = false
@@ -43,7 +43,7 @@ defaultFeaturedImage = "/img/featured.svg"
   showMoreLink = true
   showMoreLinkDest = "/docs"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]

@@ -1,5 +1,5 @@
 ---
-title: "Ryan Fallon"
+title: "Bio"
 date: 2024-04-03
 draft: false
 description: "Coding in the Clouds"
@@ -14,7 +14,7 @@ Professional background.
 
 ![](img/Ryan-GH-pic.jpg)
 
-Hi my name is Ryan Fallon - I joined the Expert Services team over a year now at GitHub as an Service Delivery Engineer. Prior to that I was a Customer Success Architect with HashiCorp and Cloud Infrastructure Architect at AWS.
+Hi my name is Ryan Fallon - I joined the GitHub Expert Services team over a year now as a Service Delivery Engineer. Prior to that I was a Customer Success Architect with HashiCorp and Cloud Infrastructure Architect at AWS.
 
 ## Experience
 
