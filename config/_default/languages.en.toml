@@ -13,10 +13,10 @@ title = "Project Refuge"
   copyright = "© 2024 Ryan Fallon"
 
 [author]
-  name = "Ryan Fallon"
+  name = "Project Refuge"
   image = "img/PR-logo.png"
   headline = "A space to highlight my work in the nonprofit and NGO space"
-  bio = "A little bit about you"
+  bio = "Coding in the Clouds"
   links = [
     { email = "mailto:ryano0oceros@githubcom" },
 #     { link = "https://link-to-some-website.com/" },

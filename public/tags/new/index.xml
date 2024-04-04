@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ryan Fallon</copyright>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Blowfish</title>
-      <link>http://localhost:1313/docs/welcome/</link>
-      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Digitharium 2024</title>
+      <link>http://localhost:1313/docs/digitharium/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/welcome/</guid>
-      <description>Blowfish is packed with tons of features.</description>
+      <guid>http://localhost:1313/docs/digitharium/</guid>
+      <description>Conference.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ryan Fallon</title>
+      <link>http://localhost:1313/docs/resume/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/resume/</guid>
+      <description>Professional background.</description>
+      
+    </item>
+    
+    <item>
+      <title>Vault Use Cases</title>
+      <link>http://localhost:1313/docs/vault/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/vault/</guid>
+      <description>Accolade.</description>
       
     </item>
     
