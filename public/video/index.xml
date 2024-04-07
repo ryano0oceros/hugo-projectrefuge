@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Youtube on Project Refuge</title>
+    <title>Videoes on Project Refuge</title>
     <link>http://localhost:1313/video/</link>
-    <description>Recent content in Youtube on Project Refuge</description>
+    <description>Recent content in Videoes on Project Refuge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ryan Fallon</copyright>
