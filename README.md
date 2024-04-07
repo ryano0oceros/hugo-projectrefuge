@@ -1,6 +1,7 @@
 # Project Refuge
+![](static/favicon-32x32.png)
 
-Project Refuge is a Hugo site designed to showcase my work in the open-source software (OSS) and non-governmental organization (NGO) space.
+Project Refuge  is a Hugo site designed to showcase my work in the open-source software (OSS) and non-governmental organization (NGO) space.
 
 ## Table of Contents
 
@@ -8,7 +9,6 @@ Project Refuge is a Hugo site designed to showcase my work in the open-source so
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
