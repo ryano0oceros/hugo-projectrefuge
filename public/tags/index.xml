@@ -29,11 +29,11 @@
     </item>
     
     <item>
-      <title>Videos</title>
-      <link>http://localhost:1313/tags/videos/</link>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/videos/</guid>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
       
     </item>
