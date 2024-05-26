@@ -27,7 +27,7 @@
 [[main]]
   name = "Youtube"
   # parent = "Media"
-  pageRef = "video"
+  pageRef = "videos"
   weight = 16
 
 [[main]]
